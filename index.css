@@ -96,6 +96,22 @@ body {
 	border-radius: 2rem;
 }
 
+#projects #img4 {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4gTCAM4now_vmyDpkr-vjzuYzUFmspl5FhA&usqp=CAU);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	border-radius: 2rem;
+}
+
+#projects #img5 {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://www.ibridge360.com/wp-content/uploads/2023/04/programming-background-collage-scaled.jpg);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	border-radius: 2rem;
+}
+
 #projects p {
 	font-size: 1.2rem;
 }
